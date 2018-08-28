@@ -5,7 +5,7 @@ def speak_to_grandma(phrase)
   puts "HUH?! SPEAK UP SONNY!"
   elsif phrase == "Hi!"
   puts "HUH?! SPEAK UP SONNY!"
-  elsif 
+  elsif phrase == "WHAT DID YOU EAT TODAY?"
 end
 # Write a speak_to_grandma method.
 
