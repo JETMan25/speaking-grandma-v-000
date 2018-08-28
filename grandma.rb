@@ -6,6 +6,10 @@ def speak_to_grandma(phrase)
   elsif phrase == "Hi!"
   puts "HUH?! SPEAK UP SONNY!"
   elsif phrase == "WHAT DID YOU EAT TODAY?"
+  puts "NO, NOT SINCE 1938!"
+else phrase == "WHAT?"
+  puts "NO, NOT SINCE 1938!"
+ end 
 end
 # Write a speak_to_grandma method.
 
